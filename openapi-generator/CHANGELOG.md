@@ -1,9 +1,3 @@
-## [5.0.2](https://github.com/gibahjoe/openapi-generator-dart/compare/v5.0.0...v5.0.2) (2024-01-16)
-
-### Bug Fixes
-
-* fixed spec diff tracking
-
 ## [7.0.0](https://github.com/gibahjoe/openapi-generator-dart/compare/v6.1.0...v7.0.0) (2026-05-30)
 
 
@@ -64,6 +58,12 @@
 * removed unsupported field ([27eb1af](https://github.com/gibahjoe/openapi-generator-dart/commit/27eb1af9abcd7338dd06e8c52f13f9713111ecd0))
 * removed unsupported field ([27eb1af](https://github.com/gibahjoe/openapi-generator-dart/commit/27eb1af9abcd7338dd06e8c52f13f9713111ecd0))
 * removed unsupported field ([27eb1af](https://github.com/gibahjoe/openapi-generator-dart/commit/27eb1af9abcd7338dd06e8c52f13f9713111ecd0))
+
+## [5.0.2](https://github.com/gibahjoe/openapi-generator-dart/compare/v5.0.0...v5.0.2) (2024-01-16)
+
+### Bug Fixes
+
+* fixed spec diff tracking
 
 ## [5.0.1](https://github.com/gibahjoe/openapi-generator-dart/compare/v5.0.0...v5.0.1) (2024-01-16)
 
